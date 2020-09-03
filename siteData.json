@@ -1,0 +1,70 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "about.md",
+      "title": "",
+      "layout": "default",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "contents/CS1010X.md",
+      "title": "",
+      "layout": "default",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "contents/CS1231S.md",
+      "title": "",
+      "layout": "default",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "contents/CS2030S.md",
+      "title": "",
+      "layout": "default",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "contents/CS2040.md",
+      "title": "",
+      "layout": "default",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "header": "header.md",
+      "siteNav": "site-nav.md",
+      "src": "contents/opensource.md",
+      "title": "",
+      "layout": "default",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
+      "header": "header.md",
+      "pageNav": 2,
+      "pageNavTitle": "Roadmap",
+      "siteNav": "site-nav.md",
+      "src": "index.md",
+      "title": "Knowledge Repository",
+      "layout": "default",
+      "headings": {
+        "motivation": "Motivation"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}
