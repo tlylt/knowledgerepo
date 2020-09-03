@@ -1,0 +1,263 @@
+2020-09-03T09:12:45.844Z - info: Website generation started at 5:12:45 PM
+2020-09-03T09:12:47.062Z - info: Building assets...
+2020-09-03T09:12:47.266Z - info: Assets built
+2020-09-03T09:12:47.272Z - info: Generating pages...
+2020-09-03T09:12:50.160Z - info: Pages built
+2020-09-03T09:12:50.928Z - info: Website generation complete! Total build time: 5.517s
+2020-09-03T09:12:51.272Z - info: Serving "C:\Users\Liu Yongliang\Documents\markbind\_site" at http://127.0.0.1:8080
+2020-09-03T09:12:51.293Z - info: Press CTRL+C to stop ...
+2020-09-03T09:12:51.636Z - info: Site data built
+2020-09-03T09:14:30.318Z - info: [5:14:30 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\index.md
+2020-09-03T09:14:31.341Z - info: Rebuilding 1 pages
+2020-09-03T09:14:32.205Z - info: Pages rebuilt
+2020-09-03T09:14:32.207Z - info: Website regeneration complete! Total build time: 0.869s
+2020-09-03T09:14:32.222Z - info: Site data built
+2020-09-03T09:21:33.560Z - info: [5:21:33 PM] Reload for file add: C:\Users\Liu Yongliang\Documents\markbind\about.md
+2020-09-03T09:21:34.566Z - info: File added or removed, updating list of site's pages...
+2020-09-03T09:21:35.598Z - info: Assets removed
+2020-09-03T09:21:35.627Z - warn: Rebuilding all pages...
+2020-09-03T09:21:35.665Z - info: Generating pages...
+2020-09-03T09:21:37.285Z - info: Pages built
+2020-09-03T09:22:15.866Z - info: [5:22:15 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\about.md
+2020-09-03T09:22:16.879Z - info: Rebuilding 1 pages
+2020-09-03T09:22:17.129Z - info: Pages rebuilt
+2020-09-03T09:22:17.132Z - info: Website regeneration complete! Total build time: 0.256s
+2020-09-03T09:22:17.143Z - info: Site data built
+2020-09-03T09:31:53.266Z - info: [5:31:53 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\about.md
+2020-09-03T09:31:54.279Z - info: Rebuilding 1 pages
+2020-09-03T09:31:54.586Z - info: Pages rebuilt
+2020-09-03T09:31:54.591Z - info: Website regeneration complete! Total build time: 0.321s
+2020-09-03T09:31:54.613Z - info: Site data built
+2020-09-03T10:44:34.205Z - info: [6:44:34 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\index.md
+2020-09-03T10:44:35.216Z - info: Rebuilding 1 pages
+2020-09-03T10:44:35.758Z - info: Pages rebuilt
+2020-09-03T10:44:35.760Z - info: Website regeneration complete! Total build time: 0.546s
+2020-09-03T10:44:35.785Z - info: Site data built
+2020-09-03T10:45:02.370Z - info: [6:45:02 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\index.md
+2020-09-03T10:45:03.387Z - info: Rebuilding 1 pages
+2020-09-03T10:45:03.705Z - info: Pages rebuilt
+2020-09-03T10:45:03.708Z - info: Website regeneration complete! Total build time: 0.328s
+2020-09-03T10:45:03.736Z - info: Site data built
+2020-09-03T10:45:28.773Z - info: [6:45:28 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\site.json
+2020-09-03T10:45:29.797Z - info: Assets built
+2020-09-03T10:45:53.426Z - info: Website generation started at 6:45:53 PM
+2020-09-03T10:45:53.812Z - info: Building assets...
+2020-09-03T10:45:53.901Z - info: Assets built
+2020-09-03T10:45:53.905Z - info: Generating pages...
+2020-09-03T10:45:55.271Z - info: Pages built
+2020-09-03T10:45:55.683Z - info: Website generation complete! Total build time: 2.433s
+2020-09-03T10:45:55.886Z - info: Serving "C:\Users\Liu Yongliang\Documents\markbind\_site" at http://127.0.0.1:8080
+2020-09-03T10:45:55.887Z - info: Press CTRL+C to stop ...
+2020-09-03T10:45:55.996Z - info: Site data built
+2020-09-03T10:46:20.196Z - info: [6:46:20 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\index.md
+2020-09-03T10:46:21.218Z - info: Rebuilding 1 pages
+2020-09-03T10:46:21.427Z - info: Pages rebuilt
+2020-09-03T10:46:21.429Z - info: Website regeneration complete! Total build time: 0.215s
+2020-09-03T10:46:21.443Z - info: Site data built
+2020-09-03T10:46:43.001Z - info: [6:46:42 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\index.md
+2020-09-03T10:46:44.016Z - info: Rebuilding 1 pages
+2020-09-03T10:46:44.328Z - info: Pages rebuilt
+2020-09-03T10:46:44.331Z - info: Website regeneration complete! Total build time: 0.319s
+2020-09-03T10:46:44.344Z - info: Site data built
+2020-09-03T10:47:04.397Z - info: [6:47:04 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\index.md
+2020-09-03T10:47:05.416Z - info: Rebuilding 1 pages
+2020-09-03T10:47:05.641Z - info: Pages rebuilt
+2020-09-03T10:47:05.644Z - info: Website regeneration complete! Total build time: 0.234s
+2020-09-03T10:47:05.654Z - info: Site data built
+2020-09-03T10:57:31.196Z - info: [6:57:31 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\index.md
+2020-09-03T10:57:32.208Z - info: Rebuilding 1 pages
+2020-09-03T10:57:32.460Z - info: Pages rebuilt
+2020-09-03T10:57:32.463Z - info: Website regeneration complete! Total build time: 0.259s
+2020-09-03T10:57:32.476Z - info: Site data built
+2020-09-03T10:57:47.191Z - info: [6:57:47 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\index.md
+2020-09-03T10:57:48.212Z - info: Rebuilding 1 pages
+2020-09-03T10:57:48.483Z - info: Pages rebuilt
+2020-09-03T10:57:48.486Z - info: Website regeneration complete! Total build time: 0.282s
+2020-09-03T10:57:48.498Z - info: Site data built
+2020-09-03T10:58:58.744Z - info: [6:58:58 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\index.md
+2020-09-03T10:58:59.765Z - info: Rebuilding 1 pages
+2020-09-03T10:59:00.020Z - info: Pages rebuilt
+2020-09-03T10:59:00.023Z - info: Website regeneration complete! Total build time: 0.266s
+2020-09-03T10:59:00.038Z - info: Site data built
+2020-09-03T11:01:37.738Z - info: [7:01:37 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\layouts\default\header.md
+2020-09-03T11:01:38.757Z - info: Rebuilding 1 pages
+2020-09-03T11:01:38.929Z - info: Pages rebuilt
+2020-09-03T11:01:38.931Z - info: Website regeneration complete! Total build time: 0.178s
+2020-09-03T11:01:38.943Z - info: Site data built
+2020-09-03T11:01:46.394Z - info: [7:01:46 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\index.md
+2020-09-03T11:01:47.415Z - info: Rebuilding 1 pages
+2020-09-03T11:01:47.689Z - info: Pages rebuilt
+2020-09-03T11:01:47.695Z - info: Website regeneration complete! Total build time: 0.285s
+2020-09-03T11:01:47.726Z - info: Site data built
+2020-09-03T11:02:06.070Z - info: Website generation started at 7:02:05 PM
+2020-09-03T11:02:06.730Z - info: Building assets...
+2020-09-03T11:02:06.836Z - info: Assets built
+2020-09-03T11:02:06.840Z - info: Generating pages...
+2020-09-03T11:02:08.390Z - info: Pages built
+2020-09-03T11:02:08.768Z - info: Website generation complete! Total build time: 2.878s
+2020-09-03T11:02:08.987Z - info: Serving "C:\Users\Liu Yongliang\Documents\markbind\_site" at http://127.0.0.1:8080
+2020-09-03T11:02:08.991Z - info: Press CTRL+C to stop ...
+2020-09-03T11:02:09.144Z - info: Site data built
+2020-09-03T11:03:08.925Z - info: [7:03:08 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\headers\header.md
+2020-09-03T11:03:09.959Z - info: Rebuilding 5 pages
+2020-09-03T11:03:11.361Z - info: Pages rebuilt
+2020-09-03T11:03:11.364Z - info: Website regeneration complete! Total build time: 1.417s
+2020-09-03T11:03:11.422Z - info: Site data built
+2020-09-03T11:03:25.024Z - info: [7:03:25 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\layouts\default\header.md
+2020-09-03T11:03:26.044Z - info: Rebuilding 1 pages
+2020-09-03T11:03:26.268Z - info: Pages rebuilt
+2020-09-03T11:03:26.272Z - info: Website regeneration complete! Total build time: 0.235s
+2020-09-03T11:03:26.288Z - info: Site data built
+2020-09-03T11:03:42.463Z - info: [7:03:42 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\headers\header.md
+2020-09-03T11:03:43.485Z - info: Rebuilding 5 pages
+2020-09-03T11:03:44.315Z - info: Pages rebuilt
+2020-09-03T11:03:44.318Z - info: Website regeneration complete! Total build time: 0.84s
+2020-09-03T11:03:44.344Z - info: Site data built
+2020-09-03T11:04:15.566Z - info: [7:04:15 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\headers\header.md
+2020-09-03T11:04:16.584Z - info: Rebuilding 5 pages
+2020-09-03T11:04:17.457Z - info: Pages rebuilt
+2020-09-03T11:04:17.465Z - info: Website regeneration complete! Total build time: 0.885s
+2020-09-03T11:04:17.526Z - info: Site data built
+2020-09-03T11:06:11.170Z - info: [7:06:11 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\headers\header.md
+2020-09-03T11:06:12.196Z - info: Rebuilding 5 pages
+2020-09-03T11:06:12.977Z - info: Pages rebuilt
+2020-09-03T11:06:12.981Z - info: Website regeneration complete! Total build time: 0.798s
+2020-09-03T11:06:13.021Z - info: Site data built
+2020-09-03T11:06:39.149Z - info: [7:06:39 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\headers\header.md
+2020-09-03T11:06:40.165Z - info: Rebuilding 5 pages
+2020-09-03T11:06:40.906Z - info: Pages rebuilt
+2020-09-03T11:06:40.909Z - info: Website regeneration complete! Total build time: 0.751s
+2020-09-03T11:06:40.954Z - info: Site data built
+2020-09-03T11:07:16.151Z - info: [7:07:16 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\headers\header.md
+2020-09-03T11:07:17.167Z - info: Rebuilding 5 pages
+2020-09-03T11:07:18.011Z - info: Pages rebuilt
+2020-09-03T11:07:18.015Z - info: Website regeneration complete! Total build time: 0.859s
+2020-09-03T11:07:18.048Z - info: Site data built
+2020-09-03T11:07:21.827Z - info: [7:07:21 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\headers\header.md
+2020-09-03T11:07:22.853Z - info: Rebuilding 5 pages
+2020-09-03T11:07:23.468Z - info: Pages rebuilt
+2020-09-03T11:07:23.472Z - info: Website regeneration complete! Total build time: 0.628s
+2020-09-03T11:07:23.490Z - info: Site data built
+2020-09-03T11:07:37.886Z - info: [7:07:37 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\headers\header.md
+2020-09-03T11:07:38.911Z - info: Rebuilding 5 pages
+2020-09-03T11:07:39.545Z - info: Pages rebuilt
+2020-09-03T11:07:39.548Z - info: Website regeneration complete! Total build time: 0.65s
+2020-09-03T11:07:39.576Z - info: Site data built
+2020-09-03T11:07:53.244Z - info: [7:07:53 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\headers\header.md
+2020-09-03T11:07:54.265Z - info: Rebuilding 5 pages
+2020-09-03T11:07:54.964Z - info: Pages rebuilt
+2020-09-03T11:07:54.968Z - info: Website regeneration complete! Total build time: 0.715s
+2020-09-03T11:07:55.000Z - info: Site data built
+2020-09-03T11:08:00.894Z - info: [7:08:00 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\headers\header.md
+2020-09-03T11:08:01.912Z - info: Rebuilding 5 pages
+2020-09-03T11:08:02.525Z - info: Pages rebuilt
+2020-09-03T11:08:02.529Z - info: Website regeneration complete! Total build time: 0.623s
+2020-09-03T11:08:02.564Z - info: Site data built
+2020-09-03T11:08:12.281Z - info: [7:08:12 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\headers\header.md
+2020-09-03T11:08:13.292Z - info: Rebuilding 5 pages
+2020-09-03T11:08:13.843Z - info: Pages rebuilt
+2020-09-03T11:08:13.846Z - info: Website regeneration complete! Total build time: 0.557s
+2020-09-03T11:08:13.870Z - info: Site data built
+2020-09-03T11:08:51.264Z - info: [7:08:51 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\headers\header.md
+2020-09-03T11:08:52.293Z - info: Rebuilding 5 pages
+2020-09-03T11:08:53.284Z - info: Pages rebuilt
+2020-09-03T11:08:53.289Z - info: Website regeneration complete! Total build time: 1.004s
+2020-09-03T11:08:53.393Z - info: Site data built
+2020-09-03T11:11:29.162Z - info: [7:11:29 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\footers\footer.md
+2020-09-03T11:11:30.179Z - info: No pages needed to be rebuilt
+2020-09-03T11:11:36.076Z - info: [7:11:36 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\footers\footer.md
+2020-09-03T11:11:37.088Z - info: No pages needed to be rebuilt
+2020-09-03T11:11:51.367Z - info: [7:11:51 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\footers\footer.md
+2020-09-03T11:11:52.383Z - info: No pages needed to be rebuilt
+2020-09-03T11:11:59.899Z - info: [7:11:59 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\footers\footer.md
+2020-09-03T11:12:00.918Z - info: No pages needed to be rebuilt
+2020-09-03T11:12:16.813Z - info: Website generation started at 7:12:16 PM
+2020-09-03T11:12:17.265Z - info: Building assets...
+2020-09-03T11:12:17.376Z - info: Assets built
+2020-09-03T11:12:17.380Z - info: Generating pages...
+2020-09-03T11:12:19.022Z - info: Pages built
+2020-09-03T11:12:19.525Z - info: Website generation complete! Total build time: 3.06s
+2020-09-03T11:12:19.760Z - info: Serving "C:\Users\Liu Yongliang\Documents\markbind\_site" at http://127.0.0.1:8080
+2020-09-03T11:12:19.762Z - info: Press CTRL+C to stop ...
+2020-09-03T11:12:19.916Z - info: Site data built
+2020-09-03T11:12:35.834Z - info: [7:12:35 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\footers\footer.md
+2020-09-03T11:12:36.959Z - info: No pages needed to be rebuilt
+2020-09-03T11:13:06.310Z - info: [7:13:06 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\footers\footer.md
+2020-09-03T11:13:07.326Z - info: No pages needed to be rebuilt
+2020-09-03T11:13:39.308Z - info: [7:13:39 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\headers\header.md
+2020-09-03T11:13:40.321Z - info: Rebuilding 5 pages
+2020-09-03T11:13:41.715Z - info: Pages rebuilt
+2020-09-03T11:13:41.720Z - info: Website regeneration complete! Total build time: 1.401s
+2020-09-03T11:13:41.795Z - info: Site data built
+2020-09-03T11:14:09.057Z - info: [7:14:09 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\navigation\site-nav.md
+2020-09-03T11:14:10.075Z - info: Rebuilding 5 pages
+2020-09-03T11:14:10.933Z - info: Pages rebuilt
+2020-09-03T11:14:10.938Z - info: Website regeneration complete! Total build time: 0.875s
+2020-09-03T11:14:10.966Z - info: Site data built
+2020-09-03T11:14:21.190Z - info: [7:14:21 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\navigation\site-nav.md
+2020-09-03T11:14:22.212Z - info: Rebuilding 5 pages
+2020-09-03T11:14:23.031Z - info: Pages rebuilt
+2020-09-03T11:14:23.036Z - info: Website regeneration complete! Total build time: 0.835s
+2020-09-03T11:14:23.080Z - info: Site data built
+2020-09-03T11:15:10.046Z - info: [7:15:10 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\navigation\site-nav.md
+2020-09-03T11:15:11.071Z - info: Rebuilding 5 pages
+2020-09-03T11:15:11.812Z - info: Pages rebuilt
+2020-09-03T11:15:11.816Z - info: Website regeneration complete! Total build time: 0.757s
+2020-09-03T11:15:11.852Z - info: Site data built
+2020-09-03T11:15:36.591Z - info: [7:15:36 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\_markbind\navigation\site-nav.md
+2020-09-03T11:15:37.601Z - info: Rebuilding 5 pages
+2020-09-03T11:15:38.613Z - info: Pages rebuilt
+2020-09-03T11:15:38.618Z - info: Website regeneration complete! Total build time: 1.019s
+2020-09-03T11:15:38.634Z - info: Site data built
+2020-09-03T11:16:18.496Z - info: [7:16:18 PM] Reload for file add: C:\Users\Liu Yongliang\Documents\markbind\contents\opensource.md
+2020-09-03T11:16:18.585Z - info: [7:16:18 PM] Reload for file deletion: C:\Users\Liu Yongliang\Documents\markbind\contents\topic1.md
+2020-09-03T11:16:19.505Z - info: File added or removed, updating list of site's pages...
+2020-09-03T11:16:20.559Z - info: Assets removed
+2020-09-03T11:16:20.565Z - warn: Rebuilding all pages...
+2020-09-03T11:16:20.571Z - info: Generating pages...
+2020-09-03T11:16:21.813Z - info: Pages built
+2020-09-03T11:16:35.102Z - info: [7:16:35 PM] Reload for file add: C:\Users\Liu Yongliang\Documents\markbind\contents\CS2030S.md
+2020-09-03T11:16:35.198Z - info: [7:16:35 PM] Reload for file deletion: C:\Users\Liu Yongliang\Documents\markbind\contents\topic2.md
+2020-09-03T11:16:36.114Z - info: File added or removed, updating list of site's pages...
+2020-09-03T11:16:37.151Z - info: Assets removed
+2020-09-03T11:16:37.155Z - warn: Rebuilding all pages...
+2020-09-03T11:16:37.158Z - info: Generating pages...
+2020-09-03T11:16:38.373Z - info: Pages built
+2020-09-03T11:16:45.800Z - info: [7:16:45 PM] Reload for file add: C:\Users\Liu Yongliang\Documents\markbind\contents\CS1231S.md
+2020-09-03T11:16:45.895Z - info: [7:16:45 PM] Reload for file deletion: C:\Users\Liu Yongliang\Documents\markbind\contents\topic3a.md
+2020-09-03T11:16:46.808Z - info: File added or removed, updating list of site's pages...
+2020-09-03T11:16:47.842Z - info: Assets removed
+2020-09-03T11:16:47.849Z - warn: Rebuilding all pages...
+2020-09-03T11:16:47.858Z - info: Generating pages...
+2020-09-03T11:16:49.237Z - info: Pages built
+2020-09-03T11:16:57.889Z - info: [7:16:57 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\contents\opensource.md
+2020-09-03T11:16:58.907Z - info: Rebuilding 1 pages
+2020-09-03T11:16:59.082Z - info: Pages rebuilt
+2020-09-03T11:16:59.084Z - info: Website regeneration complete! Total build time: 0.188s
+2020-09-03T11:16:59.094Z - info: Site data built
+2020-09-03T11:17:04.657Z - info: [7:17:04 PM] Reload for file add: C:\Users\Liu Yongliang\Documents\markbind\contents\CS2040.md
+2020-09-03T11:17:04.749Z - info: [7:17:04 PM] Reload for file deletion: C:\Users\Liu Yongliang\Documents\markbind\contents\topic3b.md
+2020-09-03T11:17:05.669Z - info: File added or removed, updating list of site's pages...
+2020-09-03T11:17:06.709Z - info: Assets removed
+2020-09-03T11:17:06.721Z - warn: Rebuilding all pages...
+2020-09-03T11:17:06.733Z - info: Generating pages...
+2020-09-03T11:17:07.641Z - info: Pages built
+2020-09-03T11:17:15.017Z - info: [7:17:15 PM] Reload for file add: C:\Users\Liu Yongliang\Documents\markbind\contents\CS1010X.md
+2020-09-03T11:17:16.034Z - info: File added or removed, updating list of site's pages...
+2020-09-03T11:17:17.058Z - info: Assets removed
+2020-09-03T11:17:17.064Z - warn: Rebuilding all pages...
+2020-09-03T11:17:17.075Z - info: Generating pages...
+2020-09-03T11:17:18.301Z - info: Pages built
+2020-09-03T11:17:21.995Z - info: [7:17:21 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\contents\CS1010X.md
+2020-09-03T11:17:23.009Z - info: Rebuilding 1 pages
+2020-09-03T11:17:23.193Z - info: Pages rebuilt
+2020-09-03T11:17:23.196Z - info: Website regeneration complete! Total build time: 0.194s
+2020-09-03T11:17:23.209Z - info: Site data built
+2020-09-03T11:17:49.477Z - info: [7:17:49 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\index.md
+2020-09-03T11:17:50.505Z - info: Rebuilding 1 pages
+2020-09-03T11:17:50.661Z - info: Pages rebuilt
+2020-09-03T11:17:50.663Z - info: Website regeneration complete! Total build time: 0.168s
+2020-09-03T11:17:50.675Z - info: Site data built
+2020-09-03T11:22:58.705Z - info: [7:22:58 PM] Reload for file change: C:\Users\Liu Yongliang\Documents\markbind\site.json
+2020-09-03T11:22:59.719Z - info: Assets built
+2020-09-03T11:23:18.482Z - error: Failed to get remote.origin.url (task must either be run in a git repository with a configured origin remote or must be configured with the "repo" option).

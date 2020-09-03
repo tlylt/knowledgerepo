@@ -1,0 +1,27 @@
+{
+  "baseUrl": "knowledgerepo",
+  "titlePrefix": "",
+  "ignore": [
+    "_markbind/layouts/*",
+    "_markbind/logs/*",
+    "_site/*",
+    "site.json",
+    "*.md",
+    "*.mbd",
+    "*.mbdf",
+    "*.njk",
+    ".git/*"
+  ],
+  "pages": [
+    {
+      "src": "index.md",
+      "title": "Knowledge Repository"
+    },
+    {
+      "glob": ["**/index.md", "**/*.+(md|mbd)"]
+    }
+  ],
+  "deploy": {
+    "message": "Site Update."
+  }
+}
